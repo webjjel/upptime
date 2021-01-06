@@ -15,7 +15,7 @@ status-website:
   baseUrl: /upptime
   logoUrl: http://www.saraminimage.co.kr/sri/mobile/bi_main_common_200831.png
   name: Upptime
-  #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: Server status
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
