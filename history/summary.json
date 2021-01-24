@@ -4,10 +4,10 @@
     "url": "https://www.saramin.co.kr/zf_user",
     "icon": "https://favicons.githubusercontent.com/www.saramin.co.kr",
     "slug": "saramin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3024,
@@ -15,17 +15,19 @@
     "timeWeek": 3365,
     "timeMonth": 3024,
     "timeYear": 3024,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-24": 1
+    }
   },
   {
     "name": "SaraminMobile",
     "url": "https://m.saramin.co.kr",
     "icon": "https://favicons.githubusercontent.com/m.saramin.co.kr",
     "slug": "saramin-mobile",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2046,
@@ -33,7 +35,9 @@
     "timeWeek": 1987,
     "timeMonth": 2046,
     "timeYear": 2046,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-24": 1
+    }
   },
   {
     "name": "SaraminHR",
@@ -58,9 +62,9 @@
     "url": "https://demo.recruitin.co.kr",
     "icon": "https://favicons.githubusercontent.com/demo.recruitin.co.kr",
     "slug": "recruitin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,6 +73,8 @@
     "timeWeek": 1298,
     "timeMonth": 1234,
     "timeYear": 1234,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-24": 0
+    }
   }
 ]
