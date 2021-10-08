@@ -56,18 +56,20 @@
     "url": "https://www.saraminhr.co.kr",
     "icon": "https://favicons.githubusercontent.com/www.saraminhr.co.kr",
     "slug": "saramin-hr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1089,
-    "timeDay": 1256,
-    "timeWeek": 974,
-    "timeMonth": 1022,
+    "timeDay": 1110,
+    "timeWeek": 973,
+    "timeMonth": 1020,
     "timeYear": 1089,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-08": 0
+    }
   },
   {
     "name": "Recruitin",
