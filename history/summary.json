@@ -132,19 +132,19 @@
     "url": "https://www.saraminhr.co.kr",
     "icon": "https://icons.duckduckgo.com/ip3/www.saraminhr.co.kr.ico",
     "slug": "saramin-hr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1271,
-    "timeDay": 1633,
-    "timeWeek": 2180,
-    "timeMonth": 2370,
-    "timeYear": 1353,
+    "time": 1275,
+    "timeDay": 2227,
+    "timeWeek": 2260,
+    "timeMonth": 2384,
+    "timeYear": 1357,
     "dailyMinutesDown": {
-      "2023-06-01": 1
+      "2023-06-01": 6
     }
   },
   {
