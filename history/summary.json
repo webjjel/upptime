@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.saramin.co.kr.ico",
     "slug": "saramin",
     "status": "up",
-    "uptime": "92.19%",
+    "uptime": "92.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.19%",
     "uptimeYear": "79.11%",
-    "time": 3788,
-    "timeDay": 3181,
-    "timeWeek": 4115,
-    "timeMonth": 3627,
-    "timeYear": 3858,
+    "time": 3789,
+    "timeDay": 3158,
+    "timeWeek": 3943,
+    "timeMonth": 3618,
+    "timeYear": 3857,
     "dailyMinutesDown": {
       "2023-08-20": 354,
       "2023-05-08": 54,
@@ -96,8 +96,7 @@
       "2023-01-26": 1440,
       "2023-01-25": 917,
       "2022-12-03": 72,
-      "2022-11-14": 288,
-      "2022-09-19": 18
+      "2022-11-14": 288
     }
   },
   {
@@ -111,19 +110,18 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.19%",
     "uptimeYear": "99.83%",
-    "time": 1269,
-    "timeDay": 1439,
-    "timeWeek": 1924,
-    "timeMonth": 1451,
-    "timeYear": 1271,
+    "time": 1270,
+    "timeDay": 1489,
+    "timeWeek": 1850,
+    "timeMonth": 1458,
+    "timeYear": 1272,
     "dailyMinutesDown": {
       "2023-08-20": 354,
       "2023-05-08": 54,
       "2023-05-07": 38,
       "2023-04-10": 78,
       "2022-12-03": 72,
-      "2022-11-14": 288,
-      "2022-09-19": 17
+      "2022-11-14": 288
     }
   },
   {
@@ -137,11 +135,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1552,
-    "timeDay": 1824,
-    "timeWeek": 2537,
-    "timeMonth": 2296,
-    "timeYear": 1707,
+    "time": 1553,
+    "timeDay": 1946,
+    "timeWeek": 2422,
+    "timeMonth": 2285,
+    "timeYear": 1710,
     "dailyMinutesDown": {}
   },
   {
@@ -156,16 +154,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 4041,
-    "timeDay": 3263,
-    "timeWeek": 4227,
-    "timeMonth": 3794,
-    "timeYear": 4022,
+    "timeDay": 2949,
+    "timeWeek": 4007,
+    "timeMonth": 3776,
+    "timeYear": 4020,
     "dailyMinutesDown": {
       "2023-05-08": 54,
       "2023-05-07": 122,
       "2023-04-10": 100,
-      "2022-12-03": 71,
-      "2022-09-19": 17
+      "2022-12-03": 71
     }
   }
 ]
