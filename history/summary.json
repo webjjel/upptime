@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.saramin.co.kr.ico",
     "slug": "saramin",
     "status": "up",
-    "uptime": "92.71%",
+    "uptime": "92.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "79.07%",
-    "time": 3921,
-    "timeDay": 2775,
-    "timeWeek": 3478,
-    "timeMonth": 4202,
-    "timeYear": 3879,
+    "time": 3922,
+    "timeDay": 4143,
+    "timeWeek": 3529,
+    "timeMonth": 4230,
+    "timeYear": 3878,
     "dailyMinutesDown": {
       "2023-10-12": 433,
       "2023-10-01": 90,
@@ -96,8 +96,7 @@
       "2023-01-28": 1440,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
-      "2023-01-25": 917,
-      "2022-12-03": 72
+      "2023-01-25": 917
     }
   },
   {
@@ -111,19 +110,18 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
-    "time": 1425,
-    "timeDay": 1490,
-    "timeWeek": 1649,
-    "timeMonth": 2203,
-    "timeYear": 1465,
+    "time": 1427,
+    "timeDay": 1979,
+    "timeWeek": 1654,
+    "timeMonth": 2229,
+    "timeYear": 1466,
     "dailyMinutesDown": {
       "2023-10-12": 433,
       "2023-10-01": 97,
       "2023-08-20": 354,
       "2023-05-08": 54,
       "2023-05-07": 38,
-      "2023-04-10": 78,
-      "2022-12-03": 72
+      "2023-04-10": 78
     }
   },
   {
@@ -137,11 +135,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1851,
-    "timeDay": 1675,
-    "timeWeek": 2257,
-    "timeMonth": 3010,
-    "timeYear": 2107,
+    "time": 1862,
+    "timeDay": 7060,
+    "timeWeek": 2850,
+    "timeMonth": 3180,
+    "timeYear": 2123,
     "dailyMinutesDown": {}
   },
   {
@@ -155,17 +153,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 4059,
-    "timeDay": 3044,
-    "timeWeek": 3549,
-    "timeMonth": 4099,
-    "timeYear": 3963,
+    "time": 4068,
+    "timeDay": 8685,
+    "timeWeek": 4222,
+    "timeMonth": 4278,
+    "timeYear": 3973,
     "dailyMinutesDown": {
       "2023-10-01": 97,
       "2023-05-08": 54,
       "2023-05-07": 122,
-      "2023-04-10": 100,
-      "2022-12-03": 71
+      "2023-04-10": 100
     }
   }
 ]
