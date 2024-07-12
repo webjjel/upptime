@@ -4,18 +4,19 @@
     "url": "https://www.saramin.co.kr/zf_user",
     "icon": "https://icons.duckduckgo.com/ip3/www.saramin.co.kr.ico",
     "slug": "saramin",
-    "status": "up",
+    "status": "down",
     "uptime": "93.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
-    "time": 3936,
+    "time": 3935,
     "timeDay": 7722,
     "timeWeek": 4177,
     "timeMonth": 4417,
     "timeYear": 3998,
     "dailyMinutesDown": {
+      "2024-07-12": 1,
       "2024-02-01": 107,
       "2023-10-12": 433,
       "2023-10-01": 90,
@@ -72,9 +73,9 @@
     "url": "https://demo.recruitin.co.kr",
     "icon": "https://icons.duckduckgo.com/ip3/demo.recruitin.co.kr.ico",
     "slug": "recruitin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -84,6 +85,7 @@
     "timeMonth": 3807,
     "timeYear": 3844,
     "dailyMinutesDown": {
+      "2024-07-12": 0,
       "2023-10-01": 97
     }
   }
