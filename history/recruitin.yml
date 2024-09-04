@@ -1,7 +1,7 @@
 url: https://demo.recruitin.co.kr
-status: up
-code: 200
-responseTime: 2672
-lastUpdated: 2024-09-03T23:11:41.480Z
+status: down
+code: 503
+responseTime: 1130
+lastUpdated: 2024-09-04T17:48:14.644Z
 startTime: 2021-01-07T06:00:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
